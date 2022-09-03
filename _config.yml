@@ -19,6 +19,8 @@ linkedin_username: "chris-kelly-01481325"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
+minima:
+  skin: dark
 
 rss: rss
 
